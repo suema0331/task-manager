@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "task-manager-7d30a": {
+      "hosting": {
+        "frontend": [
+          "task-manager-7d30a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "task-manager": "task-manager-7d30a"
+  }
+}
